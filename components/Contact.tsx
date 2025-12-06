@@ -16,11 +16,11 @@ const Contact: React.FC = () => {
             </p>
             
             <div className="space-y-6">
-              <a href="mailto:contact@sohampurkait.com" className="flex items-center gap-4 text-xl hover:text-accent transition-colors">
+              <a href="mailto:purkaitsaiml@gmail.com" className="flex items-center gap-4 text-xl hover:text-accent transition-colors">
                 <div className="w-12 h-12 rounded-full border border-white/20 flex items-center justify-center">
                   <Mail size={20} />
                 </div>
-                contact@sohampurkait.com
+                purkaitsaiml@gmail.com
               </a>
               <div className="flex gap-4 pt-4">
                 <a href="#" className="w-12 h-12 rounded-full border border-white/20 flex items-center justify-center hover:bg-white hover:text-dark transition-all">
